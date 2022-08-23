@@ -12,11 +12,11 @@ Using JavaScript, CSS, and html, a webpage was created to disseminate the UFO in
 
 ### Using the Table
 
-As mentioned, there is opportunity to refine a search for UFO sightings based on five criteria: date, city, state, country, and shape of UFO observed. See [how the filters appear unused](). 
+As mentioned, there is opportunity to refine a search for UFO sightings based on five criteria: date, city, state, country, and shape of UFO observed. See [how the filters appear unused](https://github.com/josephrodini/UFOs/blob/main/static/images/NoFilters.PNG). 
 
 To change the filters, simply type in a date in the format suggested (MM/DD/YYYY), and/or keywords in the other boxes. Keep in mind the keywords are all case-sensitive, and the data has been entered in lowercase. 
 
-The table will instantly filter down to match search criteria and will go completely empty if no matches are found. See [example filter set]().
+The table will instantly filter down to match search criteria and will go completely empty if no matches are found. See [example filter set](https://github.com/josephrodini/UFOs/blob/main/static/images/Filtered.PNG). This images shows two results when the parameters "1/1/2010," "el cajon," "ca," "usa," and "triangle" are entered.
 
 ## Summary
 
